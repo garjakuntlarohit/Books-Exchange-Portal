@@ -4,3 +4,7 @@ This system is developed with a purpose of helping users to lend or borrow books
 The user can also put in a request online to borrow or lend a book. 
 This system is mainly intended to help the  students exchange their course books within a particular institution. 
 In this paper, we provide the functional features and details of implementation of our developed system.
+#Azure Technologies used are:
+Azure App Service
+Azure SQL
+Databases
