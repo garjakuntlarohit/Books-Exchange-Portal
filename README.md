@@ -6,7 +6,10 @@ This system is mainly intended to help the  students exchange their course 
 In this paper, we provide the functional features and details of implementation of our developed system.
 
 
-#Azure Technologies used are:
+Azure Technologies used are:
+
 Azure App Service
+
 Azure SQL
+
 Databases
