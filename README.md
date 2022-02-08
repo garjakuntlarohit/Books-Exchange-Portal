@@ -9,5 +9,7 @@ In this paper, we provide the functional features and details of implementation 
 Azure Technologies used are:
 
 Azure App Service
+
 Azure SQL
+
 Databases
